@@ -1,0 +1,19 @@
+* {
+  font-family: 'Lexend Exa', sans-serif;
+}
+
+#top-section{
+  min-height: calc(100vh - 102px);
+}
+
+.box {
+  background-color: #ade5ff;
+  border: 3px solid #1363b2;
+}
+
+.banner {
+  background-image: url('./images/background.jpg');
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
